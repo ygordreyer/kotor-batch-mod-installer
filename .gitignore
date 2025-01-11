@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# KOTOR Mod Installer specific
+dummy_kotor/
+final_override/
+TSLPatcher/
+patcher_mods/
+final_package/
+*.7z
+*.zip
+*.rar
+*.dlg
+*.bat
+
+# Logs and databases
+*.log
+*.sqlite

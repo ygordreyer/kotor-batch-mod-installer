@@ -1,0 +1,20 @@
+# Essential Files for KOTOR Mod Installer
+
+## Core Files
+kotor_mod_installer.py   # Main installer GUI
+run.py                  # Command-line interface
+cleanup.py              # Cleanup utility
+requirements.txt        # Python package dependencies
+
+## Documentation
+README.md              # Installation and usage instructions
+LICENSE               # MIT License
+
+## Configuration
+.gitignore            # Git ignore rules
+
+The following files should NOT be included:
+- Any .bat files (they were used for development)
+- Test files (test_*.py)
+- Temporary directories (dummy_kotor, final_override, etc.)
+- Any mod files (.7z, .zip, .rar)
