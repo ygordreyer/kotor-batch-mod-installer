@@ -42,7 +42,15 @@ final_package/
 *.rar
 *.dlg
 *.bat
+!run_installer.bat  # Allow this specific bat file
 
 # Logs and databases
 *.log
 *.sqlite
+
+# Temporary files
+*_temp/
+*.tmp
+github_*.txt
+push_with_token.txt
+test_*.py
