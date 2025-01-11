@@ -1,4 +1,4 @@
-# KOTOR Mod Installer
+# Knights of the Old Republic Mod Installer
 
 A graphical tool for installing KOTOR mods on Android devices, supporting both loose-file mods and TSLPatcher mods.
 
