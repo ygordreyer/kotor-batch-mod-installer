@@ -1,4 +1,4 @@
-# KOTOR Mod Installer
+# Knights of the Old Republic Mod Installer
 
 A graphical tool for installing KOTOR mods on Android devices, supporting both loose-file mods and TSLPatcher mods.
 
@@ -66,21 +66,6 @@ final_package/
                     └── (module files)
 ```
 
-## Testing
-
-The project includes several test scripts:
-
-- `test_environment.py`: Verifies Python environment and dependencies
-- `test_file_structure.py`: Checks directory structure and file organization
-- `test_combine_mods.py`: Tests the file combining functionality
-- `test_installer.py`: Full end-to-end test of the installer
-
-Run tests with:
-```bash
-python test_environment.py
-python test_installer.py
-```
-
 ## Troubleshooting
 
 - If a TSLPatcher mod fails to install, check that:
@@ -98,3 +83,7 @@ python test_installer.py
 ## Credits
 
 This tool was created to automate the KOTOR modding process and is based on the modding guide from https://kotor.neocities.org/modding/mod_builds/k1/spoiler-free_mobile
+
+
+
+![kotor tool](https://github.com/user-attachments/assets/25237738-526e-49c8-9844-eecca7cd19a1)
