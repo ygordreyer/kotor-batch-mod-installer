@@ -12,6 +12,9 @@ A graphical tool for installing KOTOR mods on Android devices, supporting both l
 - Creates Android-ready file structure
 - Handles nested directories and file organization
 - Supports mod reordering with up/down buttons
+- Collapsible log area with timestamps
+- Quick access to work and final directories
+- Tooltips for all buttons
 
 ## Requirements
 
@@ -23,6 +26,13 @@ A graphical tool for installing KOTOR mods on Android devices, supporting both l
 
 ## Installation
 
+### Quick Start
+1. Download this repository
+2. Double-click `run_installer.bat` to:
+   - Install required Python packages
+   - Launch the installer
+
+### Manual Installation
 1. Clone or download this repository
 2. Install Python if you haven't already
 3. Install required packages:
@@ -32,8 +42,12 @@ A graphical tool for installing KOTOR mods on Android devices, supporting both l
 
 ## Usage
 
-1. Run the installer:
+1. Run the installer using either method:
    ```bash
+   # Option 1: Using the batch file
+   Double-click run_installer.bat
+   
+   # Option 2: Using Python directly
    python kotor_mod_installer.py
    ```
 
@@ -83,7 +97,6 @@ final_package/
 ## Credits
 
 This tool was created to automate the KOTOR modding process and is based on the modding guide from https://kotor.neocities.org/modding/mod_builds/k1/spoiler-free_mobile
-
 
 
 ![kotor tool](https://github.com/user-attachments/assets/25237738-526e-49c8-9844-eecca7cd19a1)
