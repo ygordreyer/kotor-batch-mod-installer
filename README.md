@@ -83,3 +83,7 @@ final_package/
 ## Credits
 
 This tool was created to automate the KOTOR modding process and is based on the modding guide from https://kotor.neocities.org/modding/mod_builds/k1/spoiler-free_mobile
+
+
+
+![kotor tool](https://github.com/user-attachments/assets/25237738-526e-49c8-9844-eecca7cd19a1)
