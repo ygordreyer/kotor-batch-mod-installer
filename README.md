@@ -66,21 +66,6 @@ final_package/
                     └── (module files)
 ```
 
-## Testing
-
-The project includes several test scripts:
-
-- `test_environment.py`: Verifies Python environment and dependencies
-- `test_file_structure.py`: Checks directory structure and file organization
-- `test_combine_mods.py`: Tests the file combining functionality
-- `test_installer.py`: Full end-to-end test of the installer
-
-Run tests with:
-```bash
-python test_environment.py
-python test_installer.py
-```
-
 ## Troubleshooting
 
 - If a TSLPatcher mod fails to install, check that:
